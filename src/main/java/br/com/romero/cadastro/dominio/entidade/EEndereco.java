@@ -12,7 +12,7 @@ import lombok.Setter;
 
 public class EEndereco {
     String rua;
-    int numero;
+    Integer numero;
     String bairro;
     String cidade;
 }
