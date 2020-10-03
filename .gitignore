@@ -1,0 +1,44 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+!/Cadastro.iml
+src/main/java/br/com/romero/cadastro/api/
+src/main/java/br/com/romero/cadastro/config/
+src/main/java/br/com/romero/cadastro/dominio/controle/
+src/main/java/br/com/romero/cadastro/dominio/negocios/
+src/main/java/br/com/romero/cadastro/dominio/repositorio/
+src/main/java/br/com/romero/cadastro/dominio/servico/
+src/main/resources/static/
+src/main/resources/templates/
+!/cadastro.ipr
+!/mvnw
