@@ -1,4 +1,4 @@
-package br.com.romero.cadastro.negocio;
+package br.com.romero.cadastro.dominio.negocio;
 
 import lombok.Builder;
 
