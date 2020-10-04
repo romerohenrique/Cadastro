@@ -37,7 +37,7 @@ src/main/java/br/com/romero/cadastro/config/
 src/main/java/br/com/romero/cadastro/dominio/controle/
 src/main/java/br/com/romero/cadastro/dominio/negocios/
 src/main/java/br/com/romero/cadastro/dominio/repositorio/
-src/main/java/br/com/romero/cadastro/dominio/servico/
+src/main/java/br/com/romero/cadastro/servico/
 src/main/resources/static/
 src/main/resources/templates/
 !/cadastro.ipr
